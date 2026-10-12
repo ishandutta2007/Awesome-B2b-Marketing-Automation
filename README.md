@@ -1,52 +1,59 @@
-# Awesome-B2b-Marketing-Automation
+# 🚀 Awesome B2B Marketing Automation
 
-# Awesome-B2b-Marketing-Automation
+<div align="center">
 
-# Awesome-B2b-Marketing-Automation
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-B2b-Marketing-Automation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-B2b-Marketing-Automation?style=flat-square&logo=github" alt="GitHub stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-B2b-Marketing-Automation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-B2b-Marketing-Automation?style=flat-square&logo=github" alt="GitHub forks" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-B2b-Marketing-Automation/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-B2b-Marketing-Automation?style=flat-square" alt="GitHub issues" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-B2b-Marketing-Automation/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License" /></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-# Awesome-B2b-Marketing-Automation
+<br/>
+<br/>
 
-## Top B2B Marketing Automation Ecosystem
+<img src="assets/banner.svg" alt="Awesome B2B Marketing Automation Banner" width="100%" />
 
-
-
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-
-*Focused on Lead Generation, Campaign Orchestration & Revenue Operations*  
+### 🎯 Curated B2B Marketing Automation Ecosystem: SaaS Leaders & Open-Source Projects
+*Enterprise Lead Scoring • Multi-Channel Campaign Orchestration • Revenue Operations (RevOps) • Customer Data Platforms (CDP)*
 
 **Last updated: March 2026**
 
+</div>
 
+---
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **B2B Marketing Automation**. These tools help marketing and revenue teams capture, score, nurture, and convert leads through multi-channel campaigns, behavioral triggers, and CRM-synced workflows.
+A comprehensive, SEO-optimized, community-curated index of the world's finest **B2B Marketing Automation** platforms, self-hosted software, customer journey builders, and open-source stacks. Designed for Growth Marketers, Revenue Operations (RevOps) leaders, Demand Generation practitioners, and software engineers building privacy-first, transparent marketing architectures.
 
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [🛠️ Full-Featured Marketing Automation & Journeys](#️-full-featured-marketing-automation--journeys)
+  - [⚙️ Open-Source CRM & Sales Pipeline Automation](#️-open-source-crm--sales-pipeline-automation)
+  - [📬 Self-Hosted Email Marketing & Notification Engines](#-self-hosted-email-marketing--notification-engines)
+  - [🔄 Workflow Orchestration & Data Integration](#-workflow-orchestration--data-integration)
+- [🧩 Architecting an Open-Source RevOps Stack](#-architecting-an-open-source-revops-stack)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
-**Examples** include Salesforce Pardot, HubSpot Marketing Hub, Marketo Engage, ActiveCampaign, Act-On Software, SharpSpring, LeadSquared, Sugar Market, Constant Contact Lead Gen, and Keap (the category leaders).
+---
 
+## 📊 Sector Overview & Market Dynamics
 
+The global B2B marketing automation software market is estimated at approximately **$8.1B to $11.2B in 2026** (growing at a ~13%–15% CAGR towards $20B+ by 2032). 
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, custom lead scoring, and open marketing data pipelines — ideal for B2B teams, agencies, and developers building transparent, data-sovereign marketing automation stacks.
+The sector is **moderately fragmented**: 
+- **The Enterprise Cloud Giants** (Salesforce, Adobe Marketo, and HubSpot) command approximately 45%–50% of total revenue via deep CRM ecosystem lock-in, omnichannel enterprise workflows, and compliance guardrails.
+- **The Mid-Market & Challenger Segment** is actively contested by high-velocity platforms (ActiveCampaign, LeadSquared, Keap, Sugar Market) that compete on rapid deployment cycles, lower total cost of ownership (TCO), and vertical specialization.
+- **The Open-Source & Self-Hosted Renaissance** is driven by data sovereignty regulations (GDPR/CCPA), composable CDP stacks, AI-native lead-scoring agents, and modern workflow automation engines (n8n, Activepieces) that let engineering-centric RevOps teams bypass expensive per-contact vendor pricing tiers.
 
+---
 
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Sector Overview & Market Dynamics
-
-The global B2B marketing automation software market is estimated at approximately **$8.1B to $11.2B in 2026** (growing at a ~13-15% CAGR towards $20B+ by 2032). The sector is **moderately fragmented**: while large cloud giants (Salesforce, Adobe, HubSpot) command nearly 45–50% of overall enterprise market share through comprehensive platform lock-in, the remaining market is contested by specialized mid-market players, vertical-specific CRMs, and agile open-source or self-hosted alternatives.
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## SaaS/Hosted Platforms
+## 🏢 SaaS / Hosted Platforms
 
 | Platform | Company Size (Revenue / Valuation) | Pricing (Starting Tier) | Free Tier / Trial Limits | Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -61,110 +68,119 @@ The global B2B marketing automation software market is estimated at approximatel
 | **[Keap (formerly Infusionsoft)](https://keap.com/)** | **~$80M acquisition value** (~$85M rev; acquired by Thryv) | $249/month (Pro tier for 2 users and 1,500 contacts, billed annually) | 14-day free trial (up to 100 contacts, access to automated sales and marketing pipelines) | All-in-one small business CRM and marketing automation suite featuring automated lead capture, invoice triggers, and pipeline tracking. |
 | **[Act-On Software](https://act-on.com/)** | **~$53.2M acquisition value** (~$16M ARR; subsidiary of Banzai) | $900/month (Professional plan for 2,500 active contacts, billed annually) | 14-day free trial (access to email templates, campaign builder, and active contact management) | Adaptive B2B marketing automation engine focusing on active contact scoring, account-based marketing, and automated event/webinar workflows. |
 
+---
 
+## 🔓 Open-Source GitHub Projects
 
-## Open-Source GitHub Projects
+Sorted in descending order by **GitHub Star Count**. Every repository includes a live badge linking to its official stargazers page.
 
+### 🛠️ Full-Featured Marketing Automation & Journeys
 
+- **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+  Fair-code workflow automation platform with 400+ native integrations. Heavily utilized by B2B RevOps teams to connect lead forms, scoring engines, CRMs (Salesforce/HubSpot), Slack alerts, and AI agents.
 
-- **[Mautic](https://github.com/mautic/mautic)**  
+- **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+  Modern open-source CRM built with TypeScript and GraphQL as a transparent alternative to Salesforce. Features flexible data modeling, visual pipeline workflows, and extensible webhooks.
 
-  The world's largest open-source marketing automation platform (PHP, GPL-3.0). Features campaign builder, lead scoring, email marketing, landing pages, and native CRM integrations with HubSpot, Salesforce, Zoho, and Microsoft Dynamics. 10.5k+ GitHub stars, actively maintained .
+- **[Novu](https://github.com/novuhq/novu)** [![GitHub stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
+  Open-source notification infrastructure and customer communication workflow builder. Manages complex multi-channel sequences (Email, SMS, In-App, Chat, Push) with delay steps and digests.
 
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
+  Open-source customer engagement suite and live chat platform (Intercom alternative). Features omnichannel inbound lead capture, automated routing bots, conversation triggers, and CRM sync.
 
+- **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
+  Open-source, no-code business automation tool built for marketing and revenue teams. Provides visual canvas triggers for inbound leads, data enrichment, and CRM routing with MIT license.
 
-- **[Helio](https://github.com/achref-soua/helio)**  
+- **[Listmonk](https://github.com/knadh/listmonk)** [![GitHub stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)  
+  High-performance self-hosted newsletter and email marketing automation manager packed into a single Go binary with PostgreSQL. Handles millions of subscribers and multi-list drip segmentation.
 
-  AI-native open-source growth platform (TypeScript/Python, AGPL-3.0). Unifies CDP, segmentation, cross-channel journeys (email/SMS/push/WhatsApp), and AI-native features like natural-language segments and predictive scoring. Self-hostable via Docker, Helm, or cloud-init .
+- **[Mautic](https://github.com/mautic/mautic)** [![GitHub stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)  
+  The world's standard open-source marketing automation platform (PHP, GPL-3.0). Complete suite featuring visual campaign builders, behavioral lead scoring, dynamic email nurturing, landing pages, and bidirectional CRM sync.
 
+- **[SuiteCRM](https://github.com/salesagility/SuiteCRM)** [![GitHub stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)  
+  Enterprise-grade open-source CRM (AGPL-3.0) with robust marketing automation campaign management, lead scoring, pipeline reporting, and customer lifecycle tracking.
 
+- **[erxes](https://github.com/erxes/erxes)** [![GitHub stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers)  
+  Open-source experience operating system (XOS). Modular architecture with dedicated plugins for B2B lead generation, nurture journeys, contact management, forms, and deal pipelines.
 
-- **[Laudspeaker](https://github.com/laudspeaker/laudspeaker)**  
+- **[EspoCRM](https://github.com/espocrm/espocrm)** [![GitHub stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)  
+  Ultra-responsive open-source CRM application (GPL-3.0) with marketing campaign tracking, mass mailing, automated sales workflows, and REST APIs for custom lead routing.
 
-  Open-source customer journey automation (Braze/Iterable alternative). Supports email, SMS, and push notifications with a no-code visual journey builder, time delays, user segments, and PostHog integration. Backed by Y Combinator .
+- **[Laudspeaker](https://github.com/laudspeaker/laudspeaker)** [![GitHub stars](https://img.shields.io/github/stars/laudspeaker/laudspeaker)](https://github.com/laudspeaker/laudspeaker/stargazers)  
+  Open-source customer journey automation engine (Braze & Iterable alternative). Supports visual multi-step branch journeys across Email, SMS, and Push with event tracking and PostHog integration.
 
+- **[Notifuse](https://github.com/Notifuse/notifuse)** [![GitHub stars](https://img.shields.io/github/stars/Notifuse/notifuse?style=social&color=white)](https://github.com/Notifuse/notifuse/stargazers)  
+  Self-hosted marketing and transactional email platform (Go/React). Features visual MJML builder, Liquid templates, multi-ESP load-balancing (SES, Mailgun, Postmark), and privacy-first analytics.
 
+- **[OroCRM](https://github.com/oroinc/crm)** [![GitHub stars](https://img.shields.io/github/stars/oroinc/crm?style=social&color=white)](https://github.com/oroinc/crm/stargazers)  
+  Open-source B2B-focused CRM platform tailored for multi-channel commerce, account segmentation, RFM analysis, and enterprise marketing automation workflows.
 
-- **[Notifuse](https://github.com/Notifuse/notifuse)**  
+- **[MailifyFlow](https://github.com/199ocero/mailifyflow)** [![GitHub stars](https://img.shields.io/github/stars/199ocero/mailifyflow?style=social&color=white)](https://github.com/199ocero/mailifyflow/stargazers)  
+  Self-hosted email marketing automation engine built on Laravel and FilamentPHP, supporting Amazon SES queues, automated sequences, and unsubscriber management.
 
-  Modern self-hosted email marketing and transactional email platform (Go/React). Visual MJML editor, Liquid templating, A/B testing, multi-provider support (SES, Mailgun, Postmark, SendGrid, SparkPost, Mailjet, SMTP), and privacy-first built-in web analytics .
+- **[SendDock](https://github.com/arkhe-systems/senddock)** [![GitHub stars](https://img.shields.io/github/stars/arkhe-systems/senddock?style=social&color=white)](https://github.com/arkhe-systems/senddock/stargazers)  
+  Modern API-first self-hosted email marketing platform written in Go and Vue. Supports visual Handlebars templating, transactional campaigns, and deliverability metrics.
 
-
-
-- **[SendDock](https://github.com/arkhe-systems/senddock)**  
-
-  Self-hostable, API-first email marketing platform (Go/Vue). Features projects, subscribers, Handlebars templates with visual editor, campaigns, transactional API, open/click tracking, and a Pro tier with deliverability dashboard and audit log .
-
-
-
-- **[erxes](https://github.com/erxes/erxes)**  
-
-  Open-source experience operating system (XOS) with plugin-based architecture. Marketing automation plugins include Lead Generation, Engage (email/SMS sequences), Contact Management, and Sales Management. 100% self-hosted with full data privacy .
-
-
-
-- **[ZeroPipeline MCP](https://pypi.org/project/zeropipeline-mcp/)**  
-
-  AI-native open-source CRM that runs as an MCP server. Gives Claude, Cursor, and other AI agents full access to sales pipelines, deals, lead scoring, and outreach campaigns. Zero-config setup with self-hostable option .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[EspoCRM](https://github.com/espocrm/espocrm)** — Lightweight open-source CRM with marketing automation extensions and REST API for custom B2B workflows .
-
-- **[SuiteCRM](https://github.com/salesagility/SuiteCRM)** — Enterprise-depth open-source CRM (AGPL) with campaign management and 360-degree customer view .
-
-- **[Twenty](https://github.com/twentyhq/twenty)** — Modern open-source CRM built as a Salesforce alternative with workflow automation and extensible data models .
-
-- **[OroCRM](https://github.com/oroinc/crm)** — Open-source B2B CRM with marketing automation, multi-channel support, and enterprise scalability options .
-
-- **[MailifyFlow](https://github.com/199ocero/mailifyflow)** — Self-hosted email marketing platform built with Laravel, FilamentPHP, and Amazon SES.
-
-- Community **n8n** and **Activepieces** workflows for connecting Mautic to Slack, CRMs, and custom lead routing.
-
-
-
-**Frameworks for building custom systems**: Combine **Mautic** as the marketing automation core with **Helio** for AI-native segmentation and cross-channel journeys, **n8n** for workflow orchestration, and **PostgreSQL + Metabase** for revenue analytics — creating a fully self-hosted B2B marketing automation stack.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Marketing automation data must comply with data protection regulations (GDPR, CAN-SPAM, CCPA, etc.).
-
-- Self-hosted open-source solutions require proper security hardening, email deliverability configuration, and maintenance.
-
-
+- **[Helio](https://github.com/achref-soua/helio)** [![GitHub stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers)  
+  AI-native open-source growth platform (TypeScript/Python, AGPL-3.0). Unifies CDP, predictive lead scoring, and natural-language segment queries for cross-channel journeys.
 
 ---
 
+## 🧩 Architecting an Open-Source RevOps Stack
 
+For teams seeking complete data sovereignty, zero contact fees, and limitless customization, open-source building blocks can be assembled into an enterprise-grade B2B marketing engine:
 
-**Made for B2B marketing teams, RevOps professionals, agencies, and developers building transparent marketing automation.**  
+```text
+┌─────────────────┐       ┌─────────────────┐       ┌────────────────────────┐
+│ Inbound Capture │ ----> │ Orchestration   │ ----> │ Core Marketing Engine  │
+│ Web Forms / CDP │       │ n8n / Activep.  │       │ Mautic / Laudspeaker   │
+└─────────────────┘       └─────────────────┘       └────────────────────────┘
+                                   │                             │
+                                   ▼                             ▼
+                          ┌─────────────────┐       ┌────────────────────────┐
+                          │ CRM & Pipeline  │       │ Delivery & Analytics   │
+                          │ Twenty / Suite  │       │ Listmonk / PostHog     │
+                          └─────────────────┘       └────────────────────────┘
+```
 
-Let's make B2B marketing automation more open, data-driven, and efficient.
+1. **Lead Capture & Customer Data Platform (CDP)**: [Helio](https://github.com/achref-soua/helio) or [Chatwoot](https://github.com/chatwoot/chatwoot) for real-time visitor event streaming.
+2. **Workflow Orchestration**: [n8n](https://github.com/n8n-io/n8n) or [Activepieces](https://github.com/activepieces/activepieces) to execute lead enrichment, Slack notifications, and webhook triggers.
+3. **Marketing Automation & Nurturing**: [Mautic](https://github.com/mautic/mautic) or [Laudspeaker](https://github.com/laudspeaker/laudspeaker) for visual drip journeys and behavioral lead scoring.
+4. **CRM & Account Management**: [Twenty](https://github.com/twentyhq/twenty) or [EspoCRM](https://github.com/espocrm/espocrm) for sales pipelines and deal attribution.
+5. **High-Volume Email Delivery**: [Listmonk](https://github.com/knadh/listmonk) or [Notifuse](https://github.com/Notifuse/notifuse) paired with Amazon SES or self-hosted SMTP relays.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Help make this directory the ultimate resource for B2B revenue and marketing automation practitioners:
+
+1. 🍴 **Fork the repository** to your GitHub account.
+2. 🌿 **Create a new branch** (`git checkout -b add-new-platform`).
+3. ✍️ **Add or edit entries** in `README.md` following the established table or list format.
+4. 🔍 **Verify criteria**: Provide accurate pricing tiers, free tier/trial terms, and functional GitHub URLs.
+5. 🚀 **Submit a Pull Request** with a descriptive summary of your changes.
+
+---
+
+## 💖 Support & Sponsorship
+
+If this curated repository saved you time researching tools or helped you build your B2B marketing automation stack, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to help others discover it.
+- 🍴 **Fork and share** with fellow RevOps, marketing, and developer communities.
+- ☕ **Buy a coffee & sponsor**: Support continuous maintenance, updates, and open-source research directly via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-B2b-Marketing-Automation&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-B2b-Marketing-Automation&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
+
+- This repository is a **community-curated index** created for educational and informational purposes. Mention of specific vendors does not constitute an endorsement.
+- All marketing automation data capture and outbound communications must comply with applicable data protection laws (e.g., GDPR, CAN-SPAM, CCPA, CASL).
+- Self-hosted open-source software requires proper server security hardening, encryption, and DNS reputation maintenance (SPF, DKIM, DMARC, BIMI).
