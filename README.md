@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-B2b-Marketing-Automation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-B2b-Marketing-Automation?style=flat-square&logo=github" alt="GitHub stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-B2b-Marketing-Automation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-B2b-Marketing-Automation?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-B2b-Marketing-Automation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-B2b-Marketing-Automation?style=flat-square&logo=github" alt="GitHub forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-B2b-Marketing-Automation/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-B2b-Marketing-Automation?style=flat-square" alt="GitHub issues" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-B2b-Marketing-Automation/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License" /></a>
@@ -72,56 +72,56 @@ The sector is **moderately fragmented**:
 
 ## 🔓 Open-Source GitHub Projects
 
-Sorted in descending order by **GitHub Star Count**. Every repository includes a live badge linking to its official stargazers page.
+Sorted in descending order by **GitHub Stars_Count**. Every repository includes a live badge linking to its official stargazers page.
 
 ### 🛠️ Full-Featured Marketing Automation & Journeys
 
-- **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+- **[n8n](https://github.com/n8n-io/n8n)** [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   Fair-code workflow automation platform with 400+ native integrations. Heavily utilized by B2B RevOps teams to connect lead forms, scoring engines, CRMs (Salesforce/HubSpot), Slack alerts, and AI agents.
 
-- **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+- **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub_Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
   Modern open-source CRM built with TypeScript and GraphQL as a transparent alternative to Salesforce. Features flexible data modeling, visual pipeline workflows, and extensible webhooks.
 
-- **[Novu](https://github.com/novuhq/novu)** [![GitHub stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
+- **[Novu](https://github.com/novuhq/novu)** [![GitHub_Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
   Open-source notification infrastructure and customer communication workflow builder. Manages complex multi-channel sequences (Email, SMS, In-App, Chat, Push) with delay steps and digests.
 
-- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
   Open-source customer engagement suite and live chat platform (Intercom alternative). Features omnichannel inbound lead capture, automated routing bots, conversation triggers, and CRM sync.
 
-- **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
+- **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub_Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
   Open-source, no-code business automation tool built for marketing and revenue teams. Provides visual canvas triggers for inbound leads, data enrichment, and CRM routing with MIT license.
 
-- **[Listmonk](https://github.com/knadh/listmonk)** [![GitHub stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)  
+- **[Listmonk](https://github.com/knadh/listmonk)** [![GitHub_Stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)  
   High-performance self-hosted newsletter and email marketing automation manager packed into a single Go binary with PostgreSQL. Handles millions of subscribers and multi-list drip segmentation.
 
-- **[Mautic](https://github.com/mautic/mautic)** [![GitHub stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)  
+- **[Mautic](https://github.com/mautic/mautic)** [![GitHub_Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)  
   The world's standard open-source marketing automation platform (PHP, GPL-3.0). Complete suite featuring visual campaign builders, behavioral lead scoring, dynamic email nurturing, landing pages, and bidirectional CRM sync.
 
-- **[SuiteCRM](https://github.com/salesagility/SuiteCRM)** [![GitHub stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)  
+- **[SuiteCRM](https://github.com/salesagility/SuiteCRM)** [![GitHub_Stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)  
   Enterprise-grade open-source CRM (AGPL-3.0) with robust marketing automation campaign management, lead scoring, pipeline reporting, and customer lifecycle tracking.
 
-- **[erxes](https://github.com/erxes/erxes)** [![GitHub stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers)  
+- **[erxes](https://github.com/erxes/erxes)** [![GitHub_Stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers)  
   Open-source experience operating system (XOS). Modular architecture with dedicated plugins for B2B lead generation, nurture journeys, contact management, forms, and deal pipelines.
 
-- **[EspoCRM](https://github.com/espocrm/espocrm)** [![GitHub stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)  
+- **[EspoCRM](https://github.com/espocrm/espocrm)** [![GitHub_Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)  
   Ultra-responsive open-source CRM application (GPL-3.0) with marketing campaign tracking, mass mailing, automated sales workflows, and REST APIs for custom lead routing.
 
-- **[Laudspeaker](https://github.com/laudspeaker/laudspeaker)** [![GitHub stars](https://img.shields.io/github/stars/laudspeaker/laudspeaker)](https://github.com/laudspeaker/laudspeaker/stargazers)  
+- **[Laudspeaker](https://github.com/laudspeaker/laudspeaker)** [![GitHub_Stars](https://img.shields.io/github/stars/laudspeaker/laudspeaker)](https://github.com/laudspeaker/laudspeaker/stargazers)  
   Open-source customer journey automation engine (Braze & Iterable alternative). Supports visual multi-step branch journeys across Email, SMS, and Push with event tracking and PostHog integration.
 
-- **[Notifuse](https://github.com/Notifuse/notifuse)** [![GitHub stars](https://img.shields.io/github/stars/Notifuse/notifuse?style=social&color=white)](https://github.com/Notifuse/notifuse/stargazers)  
+- **[Notifuse](https://github.com/Notifuse/notifuse)** [![GitHub_Stars](https://img.shields.io/github/stars/Notifuse/notifuse?style=social&color=white)](https://github.com/Notifuse/notifuse/stargazers)  
   Self-hosted marketing and transactional email platform (Go/React). Features visual MJML builder, Liquid templates, multi-ESP load-balancing (SES, Mailgun, Postmark), and privacy-first analytics.
 
-- **[OroCRM](https://github.com/oroinc/crm)** [![GitHub stars](https://img.shields.io/github/stars/oroinc/crm?style=social&color=white)](https://github.com/oroinc/crm/stargazers)  
+- **[OroCRM](https://github.com/oroinc/crm)** [![GitHub_Stars](https://img.shields.io/github/stars/oroinc/crm?style=social&color=white)](https://github.com/oroinc/crm/stargazers)  
   Open-source B2B-focused CRM platform tailored for multi-channel commerce, account segmentation, RFM analysis, and enterprise marketing automation workflows.
 
-- **[MailifyFlow](https://github.com/199ocero/mailifyflow)** [![GitHub stars](https://img.shields.io/github/stars/199ocero/mailifyflow?style=social&color=white)](https://github.com/199ocero/mailifyflow/stargazers)  
+- **[MailifyFlow](https://github.com/199ocero/mailifyflow)** [![GitHub_Stars](https://img.shields.io/github/stars/199ocero/mailifyflow?style=social&color=white)](https://github.com/199ocero/mailifyflow/stargazers)  
   Self-hosted email marketing automation engine built on Laravel and FilamentPHP, supporting Amazon SES queues, automated sequences, and unsubscriber management.
 
-- **[SendDock](https://github.com/arkhe-systems/senddock)** [![GitHub stars](https://img.shields.io/github/stars/arkhe-systems/senddock?style=social&color=white)](https://github.com/arkhe-systems/senddock/stargazers)  
+- **[SendDock](https://github.com/arkhe-systems/senddock)** [![GitHub_Stars](https://img.shields.io/github/stars/arkhe-systems/senddock?style=social&color=white)](https://github.com/arkhe-systems/senddock/stargazers)  
   Modern API-first self-hosted email marketing platform written in Go and Vue. Supports visual Handlebars templating, transactional campaigns, and deliverability metrics.
 
-- **[Helio](https://github.com/achref-soua/helio)** [![GitHub stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers)  
+- **[Helio](https://github.com/achref-soua/helio)** [![GitHub_Stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers)  
   AI-native open-source growth platform (TypeScript/Python, AGPL-3.0). Unifies CDP, predictive lead scoring, and natural-language segment queries for cross-channel journeys.
 
 ---
